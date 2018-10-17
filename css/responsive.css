@@ -1,0 +1,403 @@
+@media(max-width:1440px) {
+    
+}
+
+@media(max-width:1366px) {
+    .contact-bottom textarea {
+        width: 97.3%;
+    }
+}
+
+@media(max-width:1280px) {
+    
+}
+
+@media(max-width:1024px) {
+    .banner {
+        min-height: 550px;
+    }
+
+    .banner-main {
+        padding: 10em 0 0;
+        width: 65%;
+    }
+
+    .grid-main {
+        padding: 3em 0;
+    }
+
+    .logo {
+        width: 40%;
+    }
+
+    .process-grid h4 {
+        font-size: 1.25em;
+    }
+
+    .process p {
+        font-size: 1em;
+    }
+
+    h2.b-animate.b-from-left.b-delay03 {
+        padding-top: 7em;
+    }
+
+    .about-wedo-right h4 a {
+        font-size: .95em;
+    }
+
+    .about {
+        padding: 3em 0;
+    }
+
+}
+
+@media(max-width:768px) {
+    .dropdown-menu{
+        display:none !important;
+    }
+    .dropdown:hover > .dropdown-menu{
+        visibility: hidden;
+        -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+        filter: alpha(opacity=0);
+        opacity: 0;
+    }
+    .loading .loading-logo {
+        width: 80px;
+        height: 80px;
+    }
+    .header{
+        height:auto;
+        padding: 10px 0px;
+    }
+    .header-main{
+        padding: 0em;
+        height: 55px;
+    }
+    #hamburger{
+        display: block;
+    }
+    .top-nav {
+        float: right;
+        padding: 10px 0px;
+    }
+    span.menu {
+        display: block;
+        text-align: center;
+        padding: 5px 0 0;
+        cursor: pointer;
+        color: #E74C3C;
+        font-size: 16px;
+        font-weight: 700;
+        position: relative;
+    }
+
+    ul.res {
+        display: none;
+        padding: 0;
+    }
+
+    .top-nav ul {
+        padding: 0;
+        margin: 0;
+        z-index: 999;
+        position: absolute;
+        width: 100%;
+        left: 0;
+        top: 60px;
+        padding: 1.9em 0 0;
+    }
+
+    .top-nav ul.res li {
+        display: block;
+        text-align: center;
+        background: #FFFFFF;
+        margin: 0;
+        width: 100%;
+        padding: 14px 0px;
+        border-bottom: 1px solid gainsboro;
+    }
+    .top-nav ul.res li:hover{
+        background-color: gainsboro;
+    }
+    .top-nav ul.res li a {
+        font-size: 16px;
+        padding: 0;
+        color: #0C9648;
+        display: block;
+    }
+
+    ul.res li a:hover,ul.res li a.active {
+        color: #000;
+    }
+
+    .logo {
+        width: 26%;
+    }
+
+    .logo h1 a {
+        font-size: .75em;
+    }
+
+    .head-right {
+        width: auto;
+        overflow: hidden;
+        height: 100%;
+    }
+
+    .banner-main h2 {
+        font-size: 1.5em;
+    }
+
+    .banner-main {
+        padding: 7em 0 0;
+    }
+
+    .banner {
+        min-height: 410px;
+    }
+
+    .grid-main {
+        padding: 2em 0 3em;
+    }
+
+    .top-nav ul li {
+        margin: 0 .51em 0 0;
+    }
+
+    .process-grid {
+        margin: 0 0 1.5em;
+    }
+
+    .process-grid h4 {
+        margin: 0 0 .1em;
+    }
+
+
+    .footer-news {
+        float: left;
+        width: 30%;
+    }
+}
+
+@media(max-width:640px) {
+    .ftr-email input[type="text"] {
+        width: 67%;
+    }
+
+    .ftr-email input[type="submit"] {
+        width: 25%;
+    }
+
+    .banner-main h2 {
+        font-size: 1.2em;
+    }
+
+    .banner {
+        min-height: 340px;
+    }
+
+    .banner-main {
+        padding: 4.5em 0 0;
+        width: 100%;
+    }
+
+    .bann-btn a {
+        padding: .3em .9em;
+    }
+
+    .map iframe {
+        height: 210px;
+    }
+
+    h2.b-animate.b-from-left.b-delay03 {
+        padding-top: 8em;
+    }
+
+    .grid-sizer,
+    .grid-item {
+      width: 50%;
+    }
+
+    .grid-item .grid-text-bottom{
+        display: none;
+    }
+
+    .grid-main .grid-title h1 {
+        margin-bottom: 0.5em;
+    }
+    .grid-main .halfheight {
+        height: 357px;
+    }
+}
+
+@media(max-width:480px) {
+    .loading .loading-logo {
+        width: 80px;
+        height: 80px;
+    }
+    .header{
+        background-color: #FFFFFF;
+    }
+    .banner-main h1 {
+        font-size: 2.5em;
+    }
+    .banner-main p {
+        font-size: .95em;
+        padding: 0px;
+        display: none;
+    }
+
+    .banner-main h2 {
+        font-size: 1.15em;
+        margin: 0 0 .25em;
+    }
+
+    .bann-btn a {
+        font-size: .9em;
+    }
+
+    .bann-btn {
+        margin: 1em 0 0;
+    }
+    .grid-main {
+        padding: 2em 0 1em;
+    }
+
+    .team-main h3 {
+        font-size: 1.4em;
+    }
+
+    .team-top-left {
+        float: none;
+        width: 70%;
+        margin: 0 auto 1em;
+    }
+
+    .team-details h4 {
+        font-size: 1em;
+        margin: 0;
+    }
+
+    .team-main {
+        padding: 1.5em 0 1em;
+    }
+
+    .fact-top h4 {
+        font-size: 1em;
+    }
+
+    .facts h3 {
+        font-size: 1.3em;
+    }
+
+    .fact-top p {
+        width: 100%;
+    }
+
+    .facts {
+        padding: 2em 0 1em;
+    }
+
+    .footer-news h5 {
+        font-size: 1.3em;
+    }
+
+    .footer-news {
+        float: none;
+        width: 100%;
+        text-align: left;
+        padding: 0 0 .6em;
+    }
+
+    .ftr-email input[type="text"] {
+        font-size: .8em;
+    }
+
+    .ftr-email input[type="submit"] {
+        font-size: .85em;
+        padding: .4em .5em;
+    }
+
+    .foter-bottom p.footer-copyrts {
+        font-size: .8em;
+    }
+
+    .footer {
+        padding: 1.5em 0;
+    }
+
+    .contact-bottom input[type="text"] {
+        font-size: .85em;
+        padding: .4em .5em;
+        margin: 0 0 .7em;
+    }
+
+    .contact-bottom textarea {
+        width: 100%;
+        font-size: .85em;
+        margin: .3em 0 0;
+        height: 7em;
+    }
+
+    .con-name {
+        float: none;
+        width: 100%;
+        padding: 0;
+    }
+
+    .contact-bottom input[type="submit"] {
+        margin: .4em 0 0;
+        font-size: .9em;
+        padding: .51em 1.5em;
+    }
+}
+
+@media(max-width:320px) {
+    .loading .loading-logo {
+        width: 80px;
+        height: 80px;
+    }
+    .header{
+        background-color: #FFFFFF;
+    }
+    .bgimg.logo-img {
+        width: 180px;
+    }
+    .banner-main h1 {
+        font-size: 2.5em;
+    }
+    .process .bg-white {
+        position: relative;
+        overflow: auto;
+        height: 90%;
+        margin-bottom: 10px;
+    }
+
+    .banner-main {
+        width: 100%;
+        padding: 2em 0 0;
+    }
+
+    .banner-main h2 {
+        font-size: .85em;
+    }
+
+    .banner-main p {
+        font-size: .8em;
+        line-height: 1.3em;
+        padding: 0px;
+        display: none;
+    }
+
+    .banner {
+        min-height: 200px;
+    }
+
+    .grid-main {
+        padding: 0.5em 0 0;
+    }
+
+}
+
+/*--media quries end here--*/
