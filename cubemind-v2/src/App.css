@@ -1,0 +1,17 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata+Display&family=Luckiest+Guy&family=Nunito+Sans&display=swap');
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  /* font-family: 'Nunito Sans', Courier, monospace; */
+}
+
+h1{
+   font-family: 'Nunito Sans', Courier, monospace;
+}
+
+p{
+  font-family: 'Inconsolata', Courier, monospace;
+}
